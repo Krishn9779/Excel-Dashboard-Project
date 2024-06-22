@@ -1,11 +1,15 @@
 # Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares
+
 Vrinda Store Annual Report 2022
+
 The Vrinda Store Sales Analysis Excel project provides insights into the performance of the store, the most popular products, and the behaviour of customers to help make informed decisions about product offerings, marketing strategies, and resource allocation. In this data analysis project, I have used Microsoft Excel to analyze the sales data of Vrinda Store, a fictional retail store. The project includes several worksheets with different types of analysis to help gain insights and make informed decisions.
 
 Introduction
+
 The purpose of this project is to analyze the sales data of Vrinda Store to identify trends, patterns, and insights that can be used to improve decision-making. The project includes several worksheets with different types of analysis, such as sales analysis, product analysis, customer analysis, and channel analysis. The analysis is presented in a clear and concise manner to facilitate easy interpretation and understanding.
 
 Data
+
 The data used in this project is a fictional sales dataset of Vrinda Store. The dataset contains information about the sales of different products, customer demographics, and sales channels. The data is stored in the 'Data' worksheet of the Excel file and is organized in a tabular format for easy analysis.
 
 Sample Insights
