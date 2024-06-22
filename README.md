@@ -11,6 +11,7 @@ The purpose of this project is to analyze the sales data of Vrinda Store to iden
 Data
 
 The data used in this project is a fictional sales dataset of Vrinda Store. The dataset contains information about the sales of different products, customer demographics, and sales channels. The data is stored in the 'Data' worksheet of the Excel file and is organized in a tabular format for easy analysis.
+![vrinda store dashboard image](https://github.com/Krishn9779/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/assets/157500409/5a8d85c7-94eb-448d-a610-f8511aed6926)
 
 Sample Insights
 Women are more likely to buy compared to men (64%) Maharashtra, Karnataka & Uttar Pradesh are the top 3 states as per sales Adults age group (30-49 yrs.) is a max contributing (50%) Amazon, Flipkart & Myntra are max contributing channels (80%)
