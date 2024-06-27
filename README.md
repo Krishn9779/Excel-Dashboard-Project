@@ -1,4 +1,4 @@
-# Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares
+# Excel Dashboard Project
 
 Vrinda Store Annual Report 2022
 
